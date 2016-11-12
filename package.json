@@ -6,7 +6,8 @@
   "main": "robonyanf.js",
   "dependencies": {
     "discord.js": "^10.0.1",
-    "npm": ""
+    "npm": "",
+    "node": ""
   },
   "repository" :
   { "type" : "git"
