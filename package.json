@@ -6,7 +6,6 @@
   "author": "Shin",
   "license": "ISC",
   "description": "Bot for YWN server",
-  "main": "robonyanf.js",
   "dependencies": {
     "discord.js": "^10.0.1",
     "npm": "",
@@ -14,5 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coolboy99/robonyanf.git"
+    "url": "git.https://github.com/coolboy99/robonyanf.git"
   },
+"main": "robonyanf.js",
+}
