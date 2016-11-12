@@ -2,6 +2,9 @@
   "name": "robonyanf",
   "version": "0.2.0",
   "readme": "README.md",
+  "maintainers": [],
+  "author": "Shin",
+  "license": "ISC",
   "description": "Bot for YWN server",
   "main": "robonyanf.js",
   "dependencies": {
@@ -9,18 +12,8 @@
     "npm": "",
     "node": ""
   },
-  "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/coolboy99/robonyanf"
-  }, 
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "maintainers": [],
-  "author": "Shin",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coolboy99/robonyanf.git"
   },
+}
